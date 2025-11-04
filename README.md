@@ -21,9 +21,9 @@ Mesmo não obtendo certificado (por estar usando uma conta emprestada), estou fo
 ---
 
 ## 🕹️ Projetos em destaque
-- 🧙‍♂️ **Jogo de combate em turnos** — Herói vs Inimigo, com sistema de ataques e habilidades especiais  
-- 💬 **Decoradores personalizados** — exemplo de uso de classes e funções como decoradores  
-- 🔢 **Mini desafios lógicos** — scripts curtos para praticar raciocínio e estruturas de repetição
+| Projeto | Descrição |
+|----------|------------|
+| 🧙‍♂️ **Jogo de Combate em Turnos** | Simula uma batalha entre um herói e um inimigo com ataques e habilidades especiais |
 
 ---
 
@@ -31,12 +31,11 @@ Mesmo não obtendo certificado (por estar usando uma conta emprestada), estou fo
 1. Clone este repositório:
    ```bash
    git clone https://github.com/bruna-usuario/curso-python-rocketseat.git
-    ```
+   
 2 . Entre na pasta do projeto:
-  ```bash
-  cd curso-python-rocketseat
-  ```
+
+    cd curso-python-rocketseat
+ 
 3 . Execute o script desejado:
-  ```bash
-  python nome_do_arquivo.py
-  ```
+ 
+    python nome_do_arquivo.py
